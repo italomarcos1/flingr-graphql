@@ -16,7 +16,8 @@
 - Clique [aqui](https://flingr.vercel.app) para testar a aplicação.
 
 ```
-Email: 
+Email: edwardking@example.com / dianawhite@example.com
+Senha: 123123
 ```
 
 ### Descrição
