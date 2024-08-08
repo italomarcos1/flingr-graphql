@@ -1,7 +1,7 @@
 <div style="display:flex; align-items:center; justify-content:center; text-align:center; width: 100%;">
   <h1 style="font-size: 40px;">Flingr GraphQL</h1>
 </div>
-<div style="display:flex; align-items:center; justify-content:center; text-align:center; gap: 60px; width: 100%;">
+<div style="display:flex; align-items:center; justify-content:center; text-align:center; gap: 60px; width: 100%; margin: 0 auto;">
   <img src="/images/graphql.png" style="height: 60px;" />
   <img src="/images/react.png" style="height: 60px;" />
   <img src="/images/tailwind.png" style="height: 60px;" />
