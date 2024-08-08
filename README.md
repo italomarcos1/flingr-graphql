@@ -1,13 +1,13 @@
 <div style="display:flex; align-items:center; justify-content:center; text-align:center">
   <h1 style="font-size: 40px;">Flingr GraphQL</h1>
 </div>
-<div style="display:flex; align-items:center; justify-content:center; text-align:center; gap: 20px;">
-  <img src="/images/graphql.png" style="height: 40px;" />
-  <img src="/images/react.png" style="height: 40px;" />
-  <img src="/images/tailwind.png" style="height: 40px;" />
-  <img src="/images/express.png" style="height: 40px;" />
-  <img src="/images/typeorm.png" style="height: 40px;" />
-  <img src="/images/docker.png" style="height: 40px;" />
+<div style="display:flex; align-items:center; justify-content:center; text-align:center; gap: 40px;">
+  <img src="/images/graphql.png" style="height: 60px;" />
+  <img src="/images/react.png" style="height: 60px;" />
+  <img src="/images/tailwind.png" style="height: 60px;" />
+  <img src="/images/express.png" style="height: 60px;" />
+  <img src="/images/typeorm.png" style="height: 60px;" />
+  <img src="/images/docker.png" style="height: 60px;" />
 </div>
 
 ---
