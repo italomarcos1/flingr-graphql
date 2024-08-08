@@ -26,8 +26,6 @@ O aplicativo replica as funcionalidades-padrão do Tinder, um aplicativo de enco
 
 Além disso, o GraphQL proporcionou uma grande vantagem no momento de definir as requisições no lado do cliente, pois é possível criar *queries* complexas no frontend sem precisar criar inúmeras rotas no *backend* ou *queries* SQL. GraphQL proporciona liberdade na escolha dos dados que o cliente precisa, sem precisar alterar o *backend*.
 
-Clique [aqui](https://www.youtube.com/watch?v=uH_MLSoBP_A) (vídeo de 40seg) para ver a demo do aplicativo.
-
 ---
 ### Funcionalidades:
 
