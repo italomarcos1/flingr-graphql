@@ -1,14 +1,13 @@
-	<!-- ![MeuBalanço](Logo.png) -->
 <div style="display:flex; align-items:center; justify-content:center; text-align:center">
   <h1 style="font-size: 40px;">Flingr GraphQL</h1>
 </div>
 <div style="display:flex; align-items:center; justify-content:center; text-align:center; gap: 20px;">
-  <img src="/graphql.png" />
-  <img src="/react.png" />
-  <img src="/tailwind.png" />
-  <img src="/express.png" />
-  <img src="/typeorm.png" />
-  <img src="/docker.png" />
+  <img src="/images/graphql.png" />
+  <img src="/images/react.png" />
+  <img src="/images/tailwind.png" />
+  <img src="/images/express.png" />
+  <img src="/images/typeorm.png" />
+  <img src="/images/docker.png" />
 </div>
 
 ---
